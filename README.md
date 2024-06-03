@@ -81,9 +81,14 @@ chmod +x contactManager.sh
 ### Adding a Contact
 
 --- Add Contact ---
+
+
 Enter first name: John
+
 Enter last name(optional): Doe
+
 Enter phone number: 1234567890
+
 Enter email address: john.doe@example.com
 
 John Doe has been added!
@@ -99,8 +104,11 @@ John Doe   | 1234567890  | john.doe@example.com
 ### Searching for a Contact
 
 --- Search Contact ---
+
 1. Search by name
+
 2. Search by phone number
+
 3. Search by email
 
 \>\> 1
